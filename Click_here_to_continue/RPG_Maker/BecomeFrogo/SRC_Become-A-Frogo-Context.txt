@@ -1,0 +1,7 @@
+A basic example system setup
+for changing into different Effects (Like in Yume Nikki)
+in RPG Maker 2003 
+
+https://forums.rpgmakerweb.com/index.php?threads/items-turning-on-switches-on-use.175998/
+
+Could definitely be better. But you can be a frog! That's all that counts
